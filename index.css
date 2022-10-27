@@ -1,0 +1,10 @@
+*{
+background-color: blue;
+margin: 0;
+}
+
+h1{
+ text-transform: capitalize;
+ background-color: red;
+ text-align: center;
+}
